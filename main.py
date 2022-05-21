@@ -17,6 +17,3 @@ with open('recipes.txt', encoding='utf-8') as menu:
         menu.readline()
 pprint(cook_book)
 
-# 'ingredient_name'
-# 'quantity'
-# 'measure'
